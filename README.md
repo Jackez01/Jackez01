@@ -1,6 +1,7 @@
 ### Olá! Sou o Lucas Geraldi
 
-- 🔭 Estudando Análise e desenvolvimento de sistemas
+- 🥳 Tenho 22 anos
+- 🔭 Fazendo Análise e desenvolvimento de sistemas
 - 🌱 Estudando Javascript
 ##
 
