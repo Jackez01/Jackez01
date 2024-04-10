@@ -2,7 +2,7 @@
 
 - 🥳 Tenho 22 anos
 - 🔭 Fazendo Análise e desenvolvimento de sistemas
-- 🌱 Estudando Javascript
+- 🌱 Estudando Javascript e Python
 ##
 
 <div style="display: inline_block"><br>
