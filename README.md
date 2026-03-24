@@ -1,6 +1,8 @@
  <h1>Olá! Sou o Lucas Geraldi</h1>
 
-Formado em analise e desenvolvimento de sistemas e cursando terceiro semestre em sistemas de informação. Sempre estou procurando me desenvolver cada vez mais e nunca ficar parado. Adoro adquirir todo tipo de conhecimento e descobrir ferramentas novas😁
+😁Tenho 24 anos, adoro café e esportes<br>
+📚Formado em analise e desenvolvimento de sistemas e cursando terceiro semestre em sistemas de informação. Sempre estou procurando me desenvolver cada vez mais e nunca ficar parado. Adoro adquirir todo tipo de conhecimento e descobrir ferramentas novas.<br>
+💻Trabalhando atualmente como analista de suporte júnior.
 
 <h1>Tecnologias</h1>
 
